@@ -28,7 +28,7 @@
 ![Blockbench](https://img.shields.io/badge/-blockbench-1E93D9?style=for-the-badge&logoColor=white&logo=blockbench)
 
 #### Operating System
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logoColor=white&logo=Windows%2011)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjYgNiAzNiAzNiI+Cgk8cGF0aCBkPSJNMjAuNSw2aC0xMmMtMS4zNzgsMCAtMi41LDEuMTIyIC0yLjUsMi41djEyYzAsMS4zNzggMS4xMjIsMi41IDIuNSwyLjVoMTJjMS4zNzgsMCAyLjUsLTEuMTIyIDIuNSwtMi41di0xMmMwLC0xLjM3OCAtMS4xMjIsLTIuNSAtMi41LC0yLjV6TTM5LjUsNmgtMTJjLTEuMzc4LDAgLTIuNSwxLjEyMiAtMi41LDIuNXYxMmMwLDEuMzc4IDEuMTIyLDIuNSAyLjUsMi41aDEyYzEuMzc4LDAgMi41LC0xLjEyMiAyLjUsLTIuNXYtMTJjMCwtMS4zNzggLTEuMTIyLC0yLjUgLTIuNSwtMi41ek0yMC41LDI1aC0xMmMtMS4zNzgsMCAtMi41LDEuMTIyIC0yLjUsMi41djEyYzAsMS4zNzggMS4xMjIsMi41IDIuNSwyLjVoMTJjMS4zNzgsMCAyLjUsLTEuMTIyIDIuNSwtMi41di0xMmMwLC0xLjM3OCAtMS4xMjIsLTIuNSAtMi41LC0yLjV6TTM5LjUsMjVoLTEyYy0xLjM3OCwwIC0yLjUsMS4xMjIgLTIuNSwyLjV2MTJjMCwxLjM3OCAxLjEyMiwyLjUgMi41LDIuNWgxMmMxLjM3OCwwIDIuNSwtMS4xMjIgMi41LC0yLjV2LTEyYzAsLTEuMzc4IC0xLjEyMiwtMi41IC0yLjUsLTIuNXoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+)
 ![MacOS 12](https://img.shields.io/badge/MacOS%2012-000000?style=for-the-badge&logoColor=fff&logo=macos)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logoColor=white&logo=android)
 
