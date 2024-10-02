@@ -5,13 +5,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=suoyukii&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,2af598bb,009efdbb)
 
 #### 🌟 Programming Language
-![Dotnet](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logoColor=white&logo=dotnet)
+![.Net](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logoColor=white&logo=dotnet)
 ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logoColor=white&logo=rust)
 ![Go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![HTML 5](https://img.shields.io/badge/-html%205-E34F26?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS 3](https://img.shields.io/badge/-css%203-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-![JavaSrcipt](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)
+
+![Markdown](https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logoColor=white&logo=markdown)
+![Toml](https://img.shields.io/badge/-toml-9C4121?style=for-the-badge&logoColor=white&logo=toml)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logoColor=white&logo=postgresql)
 
 #### ⭐ IDEs / Editors
 ![Rider](https://img.shields.io/badge/-rider-000000?style=for-the-badge&logoColor=white&logo=rider)
