@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![HTML 5](https://img.shields.io/badge/-html%205-E34F26?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS 3](https://img.shields.io/badge/-css%203-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-![JavaSrcipt](https://img.shields.io/badge/-javascript-oringe?style=for-the-badge&logoColor=white&logo=javascript)
+![JavaSrcipt](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 
 #### ⭐ IDEs / Editors
 ![Rider](https://img.shields.io/badge/-rider-000000?style=for-the-badge&logoColor=white&logo=rider)
