@@ -2,7 +2,7 @@
 
 # Nya~ Hi there 👋. 
 
-![](https://github-readme-stats.vercel.app/api?username=suoyukii&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=60,2af598,009efd)
+![](https://github-readme-stats.vercel.app/api?username=suoyukii&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=45,2af598,009efd)
 
 #### Programming Language
 ![Dotnet](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logoColor=white&logo=dotnet)
