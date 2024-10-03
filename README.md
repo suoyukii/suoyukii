@@ -20,8 +20,8 @@
 #### ⭐ IDEs / Editors
 ![Rider](https://img.shields.io/badge/-rider-000000?style=for-the-badge&logoColor=white&logo=rider)
 ![GoLand](https://img.shields.io/badge/goland-000000?&style=for-the-badge&logoColor=white&logo=goland)
-![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logoColor=white&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logoColor=white&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logoColor=white&logo=intellij-idea)
 
 ![VSCodium](https://img.shields.io/badge/-vscodium-2F80ED?style=for-the-badge&logoColor=white&logo=vscodium)
 ![Sublime Text](https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&logoColor=white&logo=sublimetext)
