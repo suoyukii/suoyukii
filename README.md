@@ -28,7 +28,6 @@
 ![Sublime Text](https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&logoColor=white&logo=sublimetext)
 ![Android Studio](https://img.shields.io/badge/-android%20studio-3DDC84?style=for-the-badge&logoColor=white&logo=androidstudio)
 
-![Godot Engine](https://img.shields.io/badge/-godot%20engine-478CBF?style=for-the-badge&logoColor=white&logo=godotengine)
 ![Unreal Engine](https://img.shields.io/badge/-unrealengine-0E1128?style=for-the-badge&logoColor=white&logo=unrealengine)
 ![Blockbench](https://img.shields.io/badge/-blockbench-1E93D9?style=for-the-badge&logoColor=white&logo=blockbench)
 ![Blender](https://img.shields.io/badge/-blender-E87D0D?style=for-the-badge&logoColor=white&logo=blender)
