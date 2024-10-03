@@ -24,6 +24,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logoColor=white&logo=intellij-idea)
 
 ![VSCodium](https://img.shields.io/badge/-vscodium-2F80ED?style=for-the-badge&logoColor=white&logo=vscodium)
+![Obsidian](https://img.shields.io/badge/-obsidian-7C3AED?style=for-the-badge&logoColor=white&logo=obsidian)
 ![Sublime Text](https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&logoColor=white&logo=sublimetext)
 ![Android Studio](https://img.shields.io/badge/-android%20studio-3DDC84?style=for-the-badge&logoColor=white&logo=androidstudio)
 
