@@ -32,6 +32,11 @@
 ![Blockbench](https://img.shields.io/badge/-blockbench-1E93D9?style=for-the-badge&logoColor=white&logo=blockbench)
 ![Blender](https://img.shields.io/badge/-blender-E87D0D?style=for-the-badge&logoColor=white&logo=blender)
 
+![Photoshop](https://img.shields.io/badge/-photoshop-31A8FF?style=for-the-badge&logoColor=white&logo=adobephotoshop)
+![Premiere Pro](https://img.shields.io/badge/-premiere%20pro-9999FF?style=for-the-badge&logoColor=white&logo=adobepremierepro)
+![Audition](https://img.shields.io/badge/-audition-00B388?style=for-the-badge&logoColor=white&logo=adobeaudition)
+![After Effects](https://img.shields.io/badge/-after%20effects-FF61F6?style=for-the-badge&logoColor=white&logo=adobeaftereffects)
+
 #### ✨ Operating System
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjEgMiAxMyAxMyI+Cgk8cGF0aCBkPSJNIDIgMiBoIDAgYyAtMSAwIC0xIDEgLTEgMSB2IDQgYyAwIDEgMSAxIDEgMSBoIDQgYyAxIDAgMSAtMSAxIC0xIHYgLTQgYyAwIC0xIC0xIC0xIC0xIC0xIHogTSA5IDIgaCAwIGMgLTEgMCAtMSAxIC0xIDEgdiA0IGMgMCAxIDEgMSAxIDEgaCA0IGMgMSAwIDEgLTEgMSAtMSB2IC00IGMgMCAtMSAtMSAtMSAtMSAtMSB6IE0gMiA5IGggMCBjIC0xIDAgLTEgMSAtMSAxIHYgNCBjIDAgMSAxIDEgMSAxIGggNCBjIDEgMCAxIC0xIDEgLTEgdiAtNCBjIDAgLTEgLTEgLTEgLTEgLTEgeiBNIDkgOSBoIDAgYyAtMSAwIC0xIDEgLTEgMSB2IDQgYyAwIDEgMSAxIDEgMSBoIDQgYyAxIDAgMSAtMSAxIC0xIHYgLTQgYyAwIC0xIC0xIC0xIC0xIC0xIHoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+)
 ![MacOS 12](https://img.shields.io/badge/MacOS%2012-000000?style=for-the-badge&logoColor=fff&logo=macos)
