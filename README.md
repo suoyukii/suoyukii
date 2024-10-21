@@ -21,7 +21,7 @@
 ![Rider](https://img.shields.io/badge/-rider-000000?style=for-the-badge&logoColor=white&logo=rider)
 ![GoLand](https://img.shields.io/badge/goland-000000?&style=for-the-badge&logoColor=white&logo=goland)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logoColor=white&logo=pycharm)
-![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logoColor=white&logo=intellij-idea)
+![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logoColor=white&logo=intellij-idea)
 
 ![VSCodium](https://img.shields.io/badge/-vscodium-2F80ED?style=for-the-badge&logoColor=white&logo=vscodium)
 ![Obsidian](https://img.shields.io/badge/-obsidian-7C3AED?style=for-the-badge&logoColor=white&logo=obsidian)
