@@ -6,9 +6,12 @@
 
 #### 🌟 Programming Language
 ![.Net](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logoColor=white&logo=dotnet)
+![dart](https://img.shields.io/badge/-dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)
 ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logoColor=white&logo=rust)
 ![Go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logoColor=white&logo=python)
+
 ![HTML 5](https://img.shields.io/badge/-html_5-E34F26?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS 3](https://img.shields.io/badge/-css_3-1572B6?style=for-the-badge&logoColor=white&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)
