@@ -47,4 +47,4 @@
 #### ♥️ Sponsor
 <!-- [![Open Collective](https://img.shields.io/badge/-open_collective-7FADF2?style=for-the-badge&logoColor=white&logo=opencollective)](https://opencollective.com/suoyukii) -->
 [![Ko-fi](https://img.shields.io/badge/-kofi-FF5E5B?style=for-the-badge&logoColor=white&logo=kofi)](https://ko-fi.com/suoyukii)
-[![Afdian](https://img.shields.io/badge/-afdian-946CE6?style=for-the-badge&logoColor=white&logo=githubsponsors)](https://afdian.com/a/nekopara)
+[![Afdian](https://img.shields.io/badge/-afdian-946CE6?style=for-the-badge&logoColor=white&logo=githubsponsors)](https://afdian.com/a/suoyukii)
