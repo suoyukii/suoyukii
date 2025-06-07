@@ -15,7 +15,7 @@
 <!-- ![Go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logoColor=white&logo=go) -->
 
 ![HTML 5](https://img.shields.io/badge/-html_5-E34F26?style=for-the-badge&logoColor=white&logo=html5)
-![CSS 3](https://img.shields.io/badge/-css_3-1572B6?style=for-the-badge&logoColor=white&logo=css3)
+![CSS 3](https://img.shields.io/badge/-css_3-1572B6?style=for-the-badge&logoColor=white&logo=css)
 ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)
 ![Markdown](https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logoColor=white&logo=markdown)
 ![Toml](https://img.shields.io/badge/-toml-9C4121?style=for-the-badge&logoColor=white&logo=toml)
