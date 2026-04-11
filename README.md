@@ -8,8 +8,9 @@
 ![Rust](https://img.shields.io/badge/-rust-444?style=for-the-badge&logoColor=white&logo=rust)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logoColor=white&logo=postgresql)
-![Freya](https://img.shields.io/badge/-freya-7658EA?style=for-the-badge&logoColor=white&logo=framework7)
 ![Toml](https://img.shields.io/badge/-toml-9C4121?style=for-the-badge&logoColor=white&logo=toml)
+![FLTK](https://img.shields.io/badge/-fltk-448?style=for-the-badge&logoColor=white&logo=freetube)
+![Freya](https://img.shields.io/badge/-freya-7658EA?style=for-the-badge&logoColor=white&logo=framework7)
 
 ![HTML 5](https://img.shields.io/badge/-html_5-E34F26?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS 3](https://img.shields.io/badge/-css_3-1572B6?style=for-the-badge&logoColor=white&logo=css)
